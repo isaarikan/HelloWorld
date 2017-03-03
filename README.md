@@ -19,3 +19,5 @@ https://www.genymotion.com/fun-zone/
 
 Android Studio ve Genymotion nasıl kurulur?
 https://www.youtube.com/watch?v=lCYmk3W4nx4
+
+Kurulumlarda sıkıntı yaşayan arkadaşlara ilk hafta yardım edilecektir.
