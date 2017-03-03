@@ -1,6 +1,9 @@
 #HABİTAT-SAMSUNG Mobil Uygulama Eğitimi
 
 Arkadaşlar merhaba eğitime başlamadan önce bazı program kurulumları yapmamız gerekiyor, aşağıda proğramların linkini ve nasıl kurulacağına dair video ve link paylaşacagım.
+
+
+
 Not:Kurulumlarda sıkıntı yaşayan arkadaşlara ilk hafta yardım edilecektir.
 
 JAVA JDK
