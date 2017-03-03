@@ -1,6 +1,6 @@
 #HABİTAT-SAMSUNG Mobil Uygulama Eğitimi
 
-Arkadaşlar merhaba eğitime başlamadan önce bazı program kurulumları yapmamız gerekiyor, aşağıda proğramların linkini ve nasıl kurulacağına dair video ve link paylaşacagım.
+Arkadaşlar merhaba eğitime başlamadan önce bazı program kurulumlarını yapmamız gerekiyor, aşağıda proğramların linkini ve nasıl kurulacağına dair video ve link paylaşacagım.
 
 
 
